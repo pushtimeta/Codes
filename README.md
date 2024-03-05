@@ -1,10 +1,12 @@
 # Codes
 
-Just a repository to store my succesful codes that were a part of my assignments and projects.
+Hi everyone, My name is **Pushti Mehta**. I am a MS Bionformatics student at Georgia Technology. I will be graduating in May'24 and I am looking for full time opportunities. This is just a repository to store my succesful codes that were a part of my assignments and projects. I am proficient in Python, R, CLI, Linux/Unix system and Shell scripting. 
 
-FindOrthologs - This program helps find orthologs using blast from reciprocal hits.
+FindOrthologs - pyhton script that helps find orthologs using blast using reciprocal hit method.
 
-Kmer_Counter - script that reads in a FASTA file and a value of k and calculates the number of times each k-mer is observed within the genome. The output is printed on the standard output in two, tab-separated columns
+Kmer_Counter - python script that reads in a FASTA file and a value of k and calculates the number of times each k-mer is observed within the genome. The output is printed on the standard output in two, tab-separated columns
+
+Vertical_Column - python script that takes in a file and a numerical value (column number) as input and creates a new file that has column extracted. 
 
 mehta_cmds_genomeassembly - Task 
 1. fetch SRR20215132
